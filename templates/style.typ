@@ -10,8 +10,8 @@
 // font-main ниже — вёрстка не изменится (шрифты метрически совместимы).
 // =====================================================================
 
-#let font-main = "Liberation Serif"   // замена Times New Roman
-#let font-mono = "Liberation Mono"    // замена Courier New
+#let font-main = "Times New Roman"   // замена Times New Roman
+#let font-mono = "Courier New"    // замена Courier New
 
 // ---- состояние для сквозной нумерации таблиц/рисунков/листингов ----
 // нумерация вида "N.M", где N — номер раздела (Заголовка 1 уровня),
