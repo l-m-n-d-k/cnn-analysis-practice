@@ -10,14 +10,6 @@
 
 + Mienye I.D., Swart T.G., Obaido G., Jordan M., Ilono P. Deep Convolutional Neural Networks in Medical Image Analysis: A Review \/\/ Information. --- 2025. --- Vol. 16, No. 3, Art. 195. DOI: 10.3390/info16030195.
 
-+ Amjoud A.B., Amrouch M. Object Detection Using Deep Learning, CNNs and Vision Transformers: A Review \/\/ IEEE Access. --- 2023. --- Vol. 11. --- P. 35479--35516. DOI: 10.1109/ACCESS.2023.3266093.
-
-+ Grigorescu S., Trasnea B., Cocias T., Macesanu G. A survey of deep learning techniques for autonomous driving \/\/ Journal of Field Robotics. --- 2020. --- Vol. 37, No. 3. --- P. 362--386. DOI: 10.1002/rob.21918.
-
-+ Deng L., Li G., Han S., Shi L., Xie Y. Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey \/\/ Proceedings of the IEEE. --- 2020. --- Vol. 108, No. 4. --- P. 485--532. DOI: 10.1109/JPROC.2020.2976475.
-
-+ Gou J., Yu B., Maybank S.J., Tao D. Knowledge Distillation: A Survey \/\/ International Journal of Computer Vision. --- 2021. --- Vol. 129, No. 6. --- P. 1789--1819. DOI: 10.1007/s11263-021-01453-z.
-
 + Деркачев В.А., Бахчевников В.В., Бакуменко А.Н. Классификатор изображений семян сельскохозяйственных культур с использованием сверточной нейронной сети \/\/ Известия ЮФУ. Технические науки. --- 2020. --- № 4. --- С. 32--39. DOI: 10.18522/2311-3103-2020-4-32-39.
 
 + Krizhevsky A., Sutskever I., Hinton G.E. ImageNet classification with deep convolutional neural networks \/\/ Communications of the ACM. --- 2017. --- Vol. 60, No. 6. --- P. 84--90. DOI: 10.1145/3065386.
@@ -33,3 +25,5 @@
 + Howard A.G., Zhu M., Chen B., Kalenichenko D., Wang W., Weyand T., Andreetto M., Adam H. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. --- 2017. --- arXiv:1704.04861.
 
 + Tan M., Le Q. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks \/\/ Proceedings of the 36th International Conference on Machine Learning (ICML). --- 2019. --- arXiv:1905.11946.
+
++ Ладанова Е. О. Проектирование вычислительных комплексов: учебное пособие / Е. О. Ладанова, С. М. Коваленко. --- М.: РТУ МИРЭА, 2024. --- Текст: электронный \/\/ ЭБС МИРЭА. --- URL: https://ibc.mirea.ru/books/SHARE/5902/ (дата обращения: 08.09.2026).
