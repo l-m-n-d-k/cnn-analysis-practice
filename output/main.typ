@@ -21,5 +21,6 @@
 #include "../sections/04_section1_primenenie.typ"
 #include "../sections/05_section1_sravnenie_trendy.typ"
 #include "../sections/06_section1_vyvody.typ"
+#include "../sections/09_section2_praktika.typ"
 #include "../sections/07_zaklyuchenie.typ"
 #include "../sections/08_spisok_istochnikov.typ"
