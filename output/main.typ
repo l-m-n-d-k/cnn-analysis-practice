@@ -12,7 +12,33 @@
 #show: report-text
 #show: setup-lists
 
-#outline(title: [СОДЕРЖАНИЕ], depth: 3, indent: auto)
+// =====================================================================
+// ТИТУЛЬНЫЕ ЛИСТЫ (скан) — полностраничные, без нумерации страниц
+// =====================================================================
+#set page(margin: 0pt, numbering: none)
+#for p in range(1, 5) {
+  if p > 1 { pagebreak() }
+  place(top + left)[
+    #image("../docs/Scanned_20260911_111411.pdf", page: p, width: 100%, height: 100%)
+  ]
+}
+#counter(page).update(0)
+#pagebreak()
+#set page(
+  margin: (left: 30mm, right: 10mm, top: 20mm, bottom: 20mm),
+  numbering: "1",
+  number-align: center,
+)
+
+// =====================================================================
+// СОДЕРЖАНИЕ: заголовок — прописными, по центру, полужирный
+// =====================================================================
+#align(center)[
+  #set text(font: font-main, size: 18pt, weight: "bold")
+  СОДЕРЖАНИЕ
+]
+#v(12pt)
+#outline(depth: 3, indent: auto, title: none)
 #pagebreak(weak: true)
 
 #include "../sections/01_vvedenie.typ"
